@@ -1,0 +1,9 @@
+# MSFoundryAgentStreamEvent — Python dependencies
+# Install: pip install -r requirements.txt
+
+# Azure AI Foundry — agent client, streaming, toolset, file search
+azure-ai-projects>=1.0.0b11
+azure-identity>=1.17.0
+
+# Environment management
+python-dotenv>=1.0.0
